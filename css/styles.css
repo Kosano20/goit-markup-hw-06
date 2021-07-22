@@ -372,6 +372,7 @@ textarea {
   top: 50%;
   left: 12px;
   fill: currentColor;
+  color: var(--black);
 
   transition: fill var(--transition-duration) var(--transition-function);
 }
