@@ -1037,8 +1037,8 @@ textarea {
     transform var(--transition-duration) var(--transition-function);
 }
 
-.portfolio-list-items:hover .overlay-text,
-.portfolio-list-items:focus .overlay-text {
+.portfolio-list-link:hover .overlay-text,
+.portfolio-list-link:focus .overlay-text {
   transform: translateY(-100%);
   opacity: 1;
   box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.12), 0px 4px 4px rgba(0, 0, 0, 0.06),
